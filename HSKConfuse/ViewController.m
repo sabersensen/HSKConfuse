@@ -38,6 +38,15 @@
 - (void)_hou{
     
 }
+
+- (void)fc_abc:(NSString *)a b:(NSString *)b{
+    
+}
+
+- (void)fc_bcd{
+    
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
